@@ -5,4 +5,4 @@ Focus is on listing primary ingredients to make shopping and pantry checking eas
 
 Sequence of cooking events are generic.  Use common sense.  Create something new.  
 
-Most recpies for weeknight meals are too detailed.  These recipes get the job done.
+These recipes get the job done.
