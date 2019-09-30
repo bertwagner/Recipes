@@ -6,6 +6,7 @@
   - zucchini
   - brocolli
   - carrots
+  - green beans
   
 ## Recipe
 1. Cook vegetable.  Steam, saute, roast.
